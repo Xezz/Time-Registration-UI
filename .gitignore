@@ -8,5 +8,6 @@
 .DS_Store
 log/
 target/
+src/.sencha/
 src/build/
 src/ext/
